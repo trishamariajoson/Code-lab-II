@@ -1,0 +1,245 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is not a wonder weapon in &quot;Call Of Duty: Zombies&quot;?",
+            "correct_answer": "R115 Resonator",
+            "incorrect_answers": [
+                "GKZ-45 Mk3",
+                "Ray Gun",
+                "Scavenger"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these characters is NOT a boss in Crash Bash?",
+            "correct_answer": "Ripper Roo",
+            "incorrect_answers": [
+                "Papu Papu",
+                "Komodo brothers",
+                "Nitros Oxide"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Overwatch,&quot; what are the names of the two Australian criminals from the Junkers faction?",
+            "correct_answer": "Junkrat and Roadhog",
+            "incorrect_answers": [
+                "Roadrat and Junkhog",
+                "Ana and Pharah",
+                "McCree and Deadeye"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which franchise does the creature &quot;Slowpoke&quot; originate from?",
+            "correct_answer": "Pokemon",
+            "incorrect_answers": [
+                "Dragon Ball",
+                "Sonic The Hedgehog",
+                "Yugioh"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Hitman&quot; series, what is the name of the main character?",
+            "correct_answer": "Agent 47",
+            "incorrect_answers": [
+                "Agent 27",
+                "Agent Smith",
+                "Agent 67"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following Elite Four members from the 6th Generation of Pok&eacute;mon was a member of Team Flare?",
+            "correct_answer": "Malva",
+            "incorrect_answers": [
+                "Siebold",
+                "Wikstrom",
+                "Drasna"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following Zelda games did not feature Ganon as a final boss?",
+            "correct_answer": "Majora&#039;s Mask",
+            "incorrect_answers": [
+                "Ocarina of Time",
+                "Skyward Sword",
+                "Breath of the Wild"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many playable characters are there in Super Smash Bros. for Nintendo 3DS and Wii U?",
+            "correct_answer": "58",
+            "incorrect_answers": [
+                "48",
+                "51",
+                "55"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the protagonist in the game &quot;The Walking Dead: Season One&quot;?",
+            "correct_answer": "Lee Everett",
+            "incorrect_answers": [
+                "Clementine",
+                "Kenny",
+                "Rick Grimes"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What year did the game &quot;Overwatch&quot; enter closed beta?",
+            "correct_answer": "2015",
+            "incorrect_answers": [
+                "2013",
+                "2011",
+                "2016"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many controllers could a Nintendo GameCube have plugged in at one time?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "8",
+                "6",
+                "2"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which Kirby game first introduced Copy Abilities?",
+            "correct_answer": "Kirby&#039;s Adventure",
+            "incorrect_answers": [
+                "Kirby Super Star",
+                "Kirby&#039;s Dream Land 2",
+                "Kirby&#039;s Dream Land"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the subtitle for Gran Turismo 3?",
+            "correct_answer": "A-Spec",
+            "incorrect_answers": [
+                "Championship",
+                "Drive",
+                "Nitro"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following Pok&eacute;mon games released first?",
+            "correct_answer": "Pok&eacute;mon Crystal",
+            "incorrect_answers": [
+                "Pok&eacute;mon Platinum",
+                "Pok&eacute;mon FireRed",
+                "Pok&eacute;mon Black"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main character of &quot;Metal Gear Solid 3&quot;?",
+            "correct_answer": "Naked Snake",
+            "incorrect_answers": [
+                "Solid Snake",
+                "Liquid Snake",
+                "Venom Snake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Portal series of games, who was the founder of Aperture Science?",
+            "correct_answer": "Cave Johnson",
+            "incorrect_answers": [
+                "GLaDOs",
+                "Wallace Breen",
+                "Gordon Freeman"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "How many total monsters appear in Monster Hunter Generations?",
+            "correct_answer": "105",
+            "incorrect_answers": [
+                "100",
+                "98",
+                "73"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the first Left 4 Dead, you can play as either of these four characters.",
+            "correct_answer": "Francis, Bill, Zoey, and Louis",
+            "incorrect_answers": [
+                "Bender, Andrew, Allison, and Brian",
+                "Coach, Ellis, Nick, and Rochelle",
+                "Harry, Ron, Hermione and Dumbledore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "League of Legends, DOTA 2, Smite and Heroes of the Storm are all part of which game genre?",
+            "correct_answer": "Multiplayer Online Battle Arena (MOBA)",
+            "incorrect_answers": [
+                "Real Time Strategy (RTS)",
+                "First Person Shooter (FPS)",
+                "Role Playing Game (RPG)"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what class is known for having the highest possible defense?",
+            "correct_answer": "The Knight",
+            "incorrect_answers": [
+                "The Wizard",
+                "The Archer",
+                "The Warrior"
+            ]
+        }
+    ]
+}
