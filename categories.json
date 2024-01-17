@@ -3,234 +3,236 @@
     "results": [
         {
             "type": "multiple",
-            "difficulty": "easy",
+            "difficulty": "hard",
             "category": "Entertainment: Video Games",
-            "question": "What was the original name of Crash Bandicoot?",
-            "correct_answer": "Willie Wombat",
+            "question": "In what year was the game &quot;Eliminator&quot; released?",
+            "correct_answer": "1998",
             "incorrect_answers": [
-                "Coco Bandicoot",
-                "Marvelous Mole",
-                "Wally Wombat"
+                "2000",
+                "1999",
+                "2001"
             ]
         },
         {
             "type": "multiple",
             "difficulty": "medium",
             "category": "Entertainment: Video Games",
-            "question": "What was the first weapon pack for &quot;PAYDAY 2&quot;?",
-            "correct_answer": "The Gage Weapon Pack #1",
+            "question": "Which puzzle game was designed by a Russian programmer, featuring Russian buildings and music?",
+            "correct_answer": "Tetris",
             "incorrect_answers": [
-                "The Overkill Pack",
-                "The Gage Chivalry Pack",
-                "The Gage Historical Pack"
-            ]
-        },
-        {
-            "type": "multiple",
-            "difficulty": "medium",
-            "category": "Entertainment: Video Games",
-            "question": "In &quot;PAYDAY 2&quot;, what weapon has the highest base weapon damage on a per-shot basis?",
-            "correct_answer": "HRL-7",
-            "incorrect_answers": [
-                "Heavy Crossbow",
-                "Thanatos .50 cal",
-                "Broomstick Pistol"
+                "Jenga",
+                "Boulder Dash",
+                "Puzzled"
             ]
         },
         {
             "type": "multiple",
             "difficulty": "hard",
             "category": "Entertainment: Video Games",
-            "question": "Which Kingdom Hearts game featured the cast of &quot;The World Ends With You&quot;?",
-            "correct_answer": "Dream Drop Distance",
+            "question": "In Animal Crossing: New Leaf, which of these paintings from Redd&#039;s Art Gallery is always genuine?",
+            "correct_answer": "Warm Painting",
             "incorrect_answers": [
-                "Birth By Sleep",
-                "365/2 Days",
-                "Re:Chain of Memories"
+                "Jolly Painting",
+                "Neutral Painting",
+                "Wistful Painting"
             ]
         },
         {
             "type": "boolean",
             "difficulty": "medium",
             "category": "Entertainment: Video Games",
-            "question": "Pistons were added to Minecraft in Beta 1.5.",
-            "correct_answer": "False",
+            "question": "Tony Hawk&#039;s Pro Skater was released in 1999.",
+            "correct_answer": "True",
             "incorrect_answers": [
-                "True"
+                "False"
             ]
         },
         {
             "type": "multiple",
             "difficulty": "easy",
             "category": "Entertainment: Video Games",
-            "question": "Which of these is NOT the name of a rival gang in the video game Saint&#039;s Row 2?",
-            "correct_answer": "The Zin Empire",
+            "question": "Who is the main antagonist in the Portal franchise?",
+            "correct_answer": "GLaDOS",
             "incorrect_answers": [
-                "The Brotherhood",
-                "The Ronin",
-                "The Sons of Samedi"
-            ]
-        },
-        {
-            "type": "multiple",
-            "difficulty": "medium",
-            "category": "Entertainment: Video Games",
-            "question": "Where was the Sniper character in Team Fortress 2 born?",
-            "correct_answer": "New Zealand",
-            "incorrect_answers": [
-                "South Africa",
-                "Antarctica",
-                "Australia"
-            ]
-        },
-        {
-            "type": "multiple",
-            "difficulty": "medium",
-            "category": "Entertainment: Video Games",
-            "question": "What was the original release date of Grand Theft Auto V?",
-            "correct_answer": "September 17, 2013",
-            "incorrect_answers": [
-                "August 17, 2013",
-                "April 14, 2015",
-                "November 18, 2014"
-            ]
-        },
-        {
-            "type": "boolean",
-            "difficulty": "easy",
-            "category": "Entertainment: Video Games",
-            "question": "Activision created Battlefield 1.",
-            "correct_answer": "False",
-            "incorrect_answers": [
-                "True"
+                "Chell",
+                "Wheatley",
+                "Rick"
             ]
         },
         {
             "type": "multiple",
             "difficulty": "easy",
             "category": "Entertainment: Video Games",
-            "question": "Which of these is NOT a playable character in &quot;Left 4 Dead&quot;?",
-            "correct_answer": "Nick",
+            "question": "In Undertale, what&#039;s the prize for answering correctly?",
+            "correct_answer": "More questions",
             "incorrect_answers": [
-                "Louis",
-                "Zoey",
-                "Bill"
+                "New car",
+                "Mercy",
+                "Money"
             ]
         },
         {
             "type": "multiple",
             "difficulty": "medium",
             "category": "Entertainment: Video Games",
-            "question": "In Need For Speed: Most Wanted (2005), how many people are there to defeat on the blacklist?",
-            "correct_answer": "15",
+            "question": "Which of these weapons is NOT available to the Terrorist team in the game, &quot;Counter-Strike: Global Offensive&quot;?",
+            "correct_answer": "SCAR-20",
+            "incorrect_answers": [
+                "SG 550",
+                "CZ-75",
+                "XM1014"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many Star Spirits do you rescue in the Nintendo 64 video game &quot;Paper Mario&quot;?",
+            "correct_answer": "7",
             "incorrect_answers": [
                 "5",
                 "10",
-                "20"
-            ]
-        },
-        {
-            "type": "multiple",
-            "difficulty": "medium",
-            "category": "Entertainment: Video Games",
-            "question": "In World of Warcraft Lore, four Old Gods created a giant and powerful creature. What was it called? ",
-            "correct_answer": "The Ancient One",
-            "incorrect_answers": [
-                "Anomalous",
-                "Eater of Souls",
-                "The Lich King"
-            ]
-        },
-        {
-            "type": "boolean",
-            "difficulty": "medium",
-            "category": "Entertainment: Video Games",
-            "question": "In &quot;Team Fortress 2&quot;, the &quot;Bill&#039;s Hat&quot; is a reference to the game &quot;Dota 2&quot;.",
-            "correct_answer": "False",
-            "incorrect_answers": [
-                "True"
+                "12"
             ]
         },
         {
             "type": "multiple",
             "difficulty": "easy",
             "category": "Entertainment: Video Games",
-            "question": "What year was the game &quot;Overwatch&quot; revealed?",
-            "correct_answer": "2014",
+            "question": "How many games in the Crash Bandicoot series were released on the original Playstation?",
+            "correct_answer": "5",
             "incorrect_answers": [
-                "2015",
+                "4",
+                "3",
+                "6"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which drive form was added into Kingdom Hearts II Final Mix?",
+            "correct_answer": "Limit Form",
+            "incorrect_answers": [
+                "Valor Form",
+                "Wisdom Form",
+                "Anti Form"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "When was Steam first released?",
+            "correct_answer": "2003",
+            "incorrect_answers": [
+                "2004",
                 "2011",
-                "2008"
-            ]
-        },
-        {
-            "type": "multiple",
-            "difficulty": "hard",
-            "category": "Entertainment: Video Games",
-            "question": "In the Kingdom Hearts series, which is not an optional boss you can fight?",
-            "correct_answer": "Master Yen Sid",
-            "incorrect_answers": [
-                "Sephiroth",
-                "Julius",
-                "Kurt Zisa"
+                "2007"
             ]
         },
         {
             "type": "multiple",
             "difficulty": "easy",
             "category": "Entertainment: Video Games",
-            "question": "Which franchise was NOT featured in the 2015 video game &quot;Lego Dimensions&quot;?",
-            "correct_answer": "Breaking Bad",
+            "question": "What year was the game Dishonored released?",
+            "correct_answer": "2012",
             "incorrect_answers": [
-                "Portal",
-                "Doctor Who",
-                "Back to the Future"
-            ]
-        },
-        {
-            "type": "multiple",
-            "difficulty": "medium",
-            "category": "Entertainment: Video Games",
-            "question": "What was the name of the first MMORPG to popularize the genre?",
-            "correct_answer": "Ultima Online",
-            "incorrect_answers": [
-                "World of Warcraft",
-                "Meridian 59",
-                "Guild Wars"
+                "2011",
+                "2008",
+                "2013"
             ]
         },
         {
             "type": "boolean",
-            "difficulty": "easy",
+            "difficulty": "medium",
             "category": "Entertainment: Video Games",
-            "question": "The PlayStation was originally a joint project between Sega and Sony that was a Sega Genesis with a disc drive.",
-            "correct_answer": "False",
+            "question": "TF2: The Medic will be credited for an assist if he heals a Spy that successfully saps a building.",
+            "correct_answer": "True",
             "incorrect_answers": [
-                "True"
+                "False"
             ]
         },
         {
             "type": "multiple",
-            "difficulty": "hard",
+            "difficulty": "easy",
             "category": "Entertainment: Video Games",
-            "question": "During development of &quot;Super Mario World&quot;, Yoshi&#039;s hard saddle was originally which of these?",
-            "correct_answer": "A shell",
+            "question": "Who is Sonic&#039;s sidekick?",
+            "correct_answer": "Tails",
             "incorrect_answers": [
-                "A slide of Gelatin",
-                "A poffin",
-                "A spike"
+                "Shadow",
+                "Amy",
+                "Knuckles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the game &quot;Hearthstone&quot;, what is the best rank possible?",
+            "correct_answer": "Rank 1 Legend",
+            "incorrect_answers": [
+                "Rank 1 Elite",
+                "Rank 1 Master",
+                "Rank 1 Supreme"
             ]
         },
         {
             "type": "multiple",
             "difficulty": "medium",
             "category": "Entertainment: Video Games",
-            "question": "What snowy mob was added in Minecraft 1.10?",
-            "correct_answer": "Polar bears",
+            "question": "Who created Agent 47 in the game series &quot;Hitman&quot;?",
+            "correct_answer": "Dr. Otto Wolfgang Ort-Meyer",
             "incorrect_answers": [
-                "Eskimos",
-                "Penguins",
-                "Walking TNT"
+                "Professor Hertz Amadeus Schneider",
+                "Dr. Josef Mengele",
+                "Professor Otto Rothwinkler"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which car did not appear in the 2002 Lego Game: Drome Racers?",
+            "correct_answer": "Wasp",
+            "incorrect_answers": [
+                "Raptor",
+                "Hornet",
+                "Behemoth"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "During pre-production of &quot;Super Mario Bros.&quot;, Mario originally was meant to shoot bullets.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main villain of the Crash Bandicoot series?",
+            "correct_answer": "Dr. Neo Cortex",
+            "incorrect_answers": [
+                "Dr. Evo-Cortex",
+                "Dr. Cortox",
+                "Sir Cartex"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Of the following space shooter games, which came out first?",
+            "correct_answer": "Space Invaders",
+            "incorrect_answers": [
+                "Galaxian",
+                "Galaga",
+                "Sinistar"
             ]
         }
     ]
