@@ -88,7 +88,6 @@ download_categories()
 def show_game_description():
     clear_content()
     
-    
     global video_label  
     if video_label is None:
         video_label = ctk.CTkLabel(app)  
@@ -196,7 +195,7 @@ def clear_content():
     timer_label = None
      
 
-
+# Displays the difficulty mode of the game 
 def show_difficulty_selection():
     global question_count_label
     question_count_label.pack_forget()
@@ -236,7 +235,7 @@ def on_difficulty_button_click(difficulty):
 
 def get_filtered_questions(difficulty_level):
     if not categories_data:
-        load_questions()  # Ensure we've loaded questions
+        load_questions()  
 
     if difficulty_level == "any":
         return categories_data['results']
@@ -246,6 +245,8 @@ def get_filtered_questions(difficulty_level):
 question_count_label = None
 
 
+
+
 def update_question_count():
     global current_question_index, question_count_label
     
@@ -253,6 +254,10 @@ def update_question_count():
         text= f"Question {current_question_index + 1} of {len(app.questions)}"
         question_count_label.configure(text=text)
         question_count_label.pack()
+
+
+
+
         
 def setup_question_count_label():
     global question_count_label
@@ -261,6 +266,10 @@ def setup_question_count_label():
 
 
 setup_question_count_label()    
+
+
+
+
 
 def start_quiz(questions):
     global current_question_index
@@ -276,27 +285,37 @@ def start_quiz(questions):
     current_question_index = 0
     show_question(app.questions[current_question_index])
 
+
+
+
+
+
+
+
+
 def show_question(question):
     global current_question_index, timer_label, counter_id
     clear_content()
     update_question_count()
     
     question_text = clean_html_entities(question['question'])
-    question_label = ctk.CTkLabel(app, text=question_text, wraplength=300) # Use question_text
+    question_label = ctk.CTkLabel(app, text=question_text, wraplength=300)
     question_label.pack(pady=20)
+    
+    answers = [clean_html_entities(ans) for ans in question['incorrect_answers']]
+    correct_answer = clean_html_entities(question['correct_answer'])
+    answers.append(correct_answer)
+    random.shuffle(answers)
     
     if current_question_index >= len(app.questions):
         messagebox.showinfo("End of Quiz", "No more questions available.")
         return
         
-    timer_label = ctk.CTkLabel(app, text="Timer: 5", font=("Arial", 22, "bold"))
+    timer_label = ctk.CTkLabel(app, text="Timer: 5", font=("Arial", 22, "bold")) # Creates a timer label
     timer_label.pack(pady=(10, 20))
 
     counter_id = None 
     count_down(5)
-
-    answers = question['incorrect_answers'][:] + [question['correct_answer']]
-    random.shuffle(answers)
     
     for answer in answers:
         answer_button = ctk.CTkButton(
@@ -305,7 +324,7 @@ def show_question(question):
             command=lambda ans=answer: answer_callback(ans, question)
         )
         answer_button.pack(pady=10)
-
+        
 def answer_selected(answer, question):
     check_answer(answer, question)
     next_question()
@@ -330,12 +349,12 @@ def answer_callback(selected_answer, question):
     correct = selected_answer == question['correct_answer']
     
     if selected_answer == question['correct_answer']:
-        player_points += 1  # Only increment points if the answer is correct.
+        player_points += 1  # If answer is correct, the points increase by one
         messagebox.showinfo("Correct!", "You have selected the correct answer.") 
         winsound.PlaySound(correct_sound_path, winsound.SND_FILENAME | winsound.SND_ASYNC)
         
     else:
-        messagebox.showinfo("Incorrect", f"The correct answer was: {question['correct_answer']}")
+        messagebox.showinfo("Incorrect !", f"The correct answer was: {question['correct_answer']}")
     next_question()
 
     
@@ -359,10 +378,10 @@ def final_screen():
     clear_content()
     global player_points
     final_score = ctk.CTkLabel(app, text="Your Final Score: " + str(player_points), font=('Cursive', 15))
-    final_score.pack(pady=20)
+    final_score.pack(pady=50)
 
     play_again_btn = ctk.CTkButton(app, text='Play Again', command=start_game)
-    play_again_btn.pack(padx=20)
+    play_again_btn.pack(padx=50)
 
     
 def times_up():
